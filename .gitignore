@@ -1,5 +1,6 @@
 *.it
 *.dat
+metadata.xml
 
 resources/stageapi/luarooms/*.stb
 
